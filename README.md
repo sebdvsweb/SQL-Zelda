@@ -1,7 +1,5 @@
-# SQL-Zelda
-Apprendre le SQL à travers les jeux Legend of Zelda
-
-# TP SQL : Analyse des ventes et critiques de la série **The Legend of Zelda**
+# TP SQL : **The Legend of Zelda**
+Apprendre le SQL à travers les jeux de la série The Legend of Zelda
 
 ## Thème du TP
 
@@ -72,7 +70,7 @@ INSERT INTO jeux (titre, date_sortie, console, producteur, ventes_mondiales, not
 
 ## Étape 3 : Premières requêtes
 
-### A. Sélectionner tous les jeux de la table
+### Sélectionner tous les jeux de la table
 
 ```sql
 SELECT * FROM jeux;
