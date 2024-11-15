@@ -96,3 +96,19 @@ WHERE console = 'Switch';
 SELECT * FROM jeux
 WHERE note_presse < 9;
 ```
+
+## Étape 4 : À vous de jouer !
+
+Trouver les requêtes suivantes :  
+- Afficher uniquement le titre et la date de sortie des jeux.
+- Trouver les jeux sortis après l’année 2000.
+- Combien y a-t-il de jeux dans la table ?
+- Quelle est la moyenne des ventes mondiales de tous les jeux ?
+- Quels sont les jeux ayant une note de presse égale à 10 ?
+- Quel est le jeu ayant le plus grand nombre de ventes mondiales ?
+- Quels jeux ont été produits par Eiji Aonuma ?
+- Quels sont les différents noms de consoles présentes dans la table ?
+- Quels sont les titres des jeux et leurs consoles pour ceux ayant dépassé 10 millions de ventes ?
+- Quels jeux ont un titre contenant le mot "Ocarina" ?
+- Combien de jeux ont été produits par chaque producteur ?
+- Quel est le jeu le plus récent de la table ?
