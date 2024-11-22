@@ -112,3 +112,17 @@ Trouver les requêtes suivantes :
 - Quels jeux ont un titre contenant le mot "Ocarina" ?
 - Combien de jeux ont été produits par chaque producteur ?
 - Quel est le jeu le plus récent de la table ?
+
+## Étape 5 : Questions supplémentaires
+
+Trouver les requêtes suivantes :  
+- Quels sont les jeux produits par Shigeru Miyamoto ayant une note de presse supérieure à 9, triés par ordre décroissant de leur note ?
+- Afficher le titre, la console et les ventes mondiales des jeux dont les ventes mondiales sont supérieures à la moyenne des ventes mondiales de tous les jeux.
+- Quels sont les jeux ayant une note de presse supérieure à 9 et qui sont sortis avant l'année 2005 ?
+- Combien de jeux sont sortis sur chaque console ?
+- Afficher les jeux qui ont été notés entre 8.5 et 9.5, triés par leur note de presse en ordre décroissant.
+- Afficher le titre, la console et la date de sortie des jeux produits par Eiji Aonuma, triés par ordre croissant de leur date de sortie.
+- Trouver le producteur ayant produit le plus grand nombre de jeux.
+- Quels sont les jeux sortis après 2010 ayant le mot "Legend" dans leur titre ?
+- Afficher la somme totale des ventes mondiales pour chaque producteur.
+- Quels sont les 3 jeux les plus anciens ayant une note supérieure ou égale à 9 ?
