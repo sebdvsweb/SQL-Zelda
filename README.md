@@ -137,8 +137,8 @@ WHERE condition
 
 - Supprimer le jeu Super Mario Bros de la table
 
-- ```sql
-  DELETE FROM `table`
+```sql
+DELETE FROM `table`
 WHERE condition
 ```
 
