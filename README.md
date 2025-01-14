@@ -128,7 +128,19 @@ VALUES
 
 Réaliser les étapes suivantes :
 - Modifier le jeu `The Legend of Zelda: Echoes of Wisdom` et mettre sa date de sortie au 26 septembre 2024.
+
+```sql
+UPDATE table
+SET nom_colonne_1 = 'nouvelle valeur'
+WHERE condition
+```
+
 - Supprimer le jeu Super Mario Bros de la table
+
+- ```sql
+  DELETE FROM `table`
+WHERE condition
+```
 
 Trouver les requêtes suivantes :  
 - Quels sont les jeux produits par Shigeru Miyamoto ayant une note de presse supérieure à 9, triés par ordre décroissant de leur note ?
