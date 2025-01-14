@@ -115,6 +115,21 @@ Trouver les requêtes suivantes :
 
 ## Étape 5 : Questions supplémentaires
 
+
+Insérer trois nouveaux jeux.
+
+```sql
+INSERT INTO jeux (titre, date_sortie, console, producteur, ventes_mondiales, note_presse) 
+VALUES 
+    ('The Legend of Zelda: Hyrule Warriors', '2014-09-26', 'Wii U', 'Hisashi Koinuma', 3.5, 79),
+    ('The Legend of Zelda: Echoes of Wisdom', '2025-01-01', 'Nintendo Switch', 'Eiji Aonuma', NULL, 95),
+    ('Super Mario Bros.', '1985-09-13', 'NES', 'Shigeru Miyamoto', 40.24, 92);
+```
+
+Réaliser les étapes suivantes :
+- Modifier le jeu `The Legend of Zelda: Echoes of Wisdom` et mettre sa date de sortie au 26 septembre 2024.
+- Supprimer le jeu Super Mario Bros de la table
+
 Trouver les requêtes suivantes :  
 - Quels sont les jeux produits par Shigeru Miyamoto ayant une note de presse supérieure à 9, triés par ordre décroissant de leur note ?
 - Afficher le titre, la console et les ventes mondiales des jeux dont les ventes mondiales sont supérieures à la moyenne des ventes mondiales de tous les jeux.
